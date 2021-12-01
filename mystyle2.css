@@ -1,0 +1,12 @@
+body{background-color:turquoise;}
+
+
+H2 {color:limegreen;
+    font-family:"Arial";
+    font-size:normal;
+    }
+    p{color: yellow;}
+    #warning {color:red;
+    font-weight:bold;
+    font-style:italic;
+    }
